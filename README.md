@@ -1,4 +1,10 @@
 hashparams.js
 =============
 
-A library for adding and changing params in a hash of a URL...
+A library for adding, changing and removing param(s) in a (blank) hash...
+
+Version
+----
+
+20140216, edition no.41
+
